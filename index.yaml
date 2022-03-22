@@ -2,13 +2,13 @@ apiVersion: v1
 entries:
   pebble:
   - apiVersion: v2
-    appVersion: v2.3.5
-    created: "2022-03-22T01:50:30.956234687Z"
+    appVersion: v2.3.0
+    created: "2022-03-22T02:12:21.135942968Z"
     description: 'This Helm chart bootstraps Pebble: an ACME server (like Let''s Encrypt)
       meant for testing. Pebble is also coupled to rely on pebble-challtestsrv as
       a DNS server. This DNS server can be configured through a REST API or configured
       during startup to make all DNS lookup go to a specifc single IP. '
-    digest: 95eb2f2298ae42853b53bb94b89e06ca8b2a28d79add898c028582c31febbd70
+    digest: 875151778c6d438e45c04e08e78bda6dcc56f00c82a27287f322e4598c093a89
     home: https://github.com/rubbercable/helm-chart
     keywords:
     - acme
@@ -22,6 +22,6 @@ entries:
       name: rubbercable
     name: pebble
     urls:
-    - https://rubbercable.github.io/helm-chart/pebble-0.0.1-set.by.chartpress.tgz
-    version: 0.0.1-set.by.chartpress
-generated: "2022-03-22T01:50:30.955587738Z"
+    - https://rubbercable.github.io/helm-chart/pebble-0.0.2.tgz
+    version: 0.0.2
+generated: "2022-03-22T02:12:21.134771519Z"
