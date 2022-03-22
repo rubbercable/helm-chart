@@ -3,7 +3,7 @@ entries:
   pebble:
   - apiVersion: v2
     appVersion: v2.3.0
-    created: "2022-03-22T01:22:35.95551302Z"
+    created: "2022-03-22T01:36:09.738774926Z"
     description: 'This Helm chart bootstraps Pebble: an ACME server (like Let''s Encrypt)
       meant for testing. Pebble is also coupled to rely on pebble-challtestsrv as
       a DNS server. This DNS server can be configured through a REST API or configured
@@ -18,11 +18,11 @@ entries:
     - ci
     - testing
     maintainers:
-    - email: rubbercable@gmail.com
-      name: Rubber Cable
-      url: 
+    - email: erik@sundellopensource.se
+      name: Erik Sundell
+      url: https://github.com/consideRatio
     name: pebble
     urls:
     - https://rubbercable.github.io/helm-chart/pebble-0.0.1-set.by.chartpress.tgz
     version: 0.0.1-set.by.chartpress
-generated: "2022-03-22T01:22:35.954364451Z"
+generated: "2022-03-22T01:36:09.737602867Z"
